@@ -1,1 +1,1 @@
-# IIITG-Events-Calender
+# Events-Calender
